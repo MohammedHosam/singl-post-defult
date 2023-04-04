@@ -1,0 +1,1 @@
+"# singl-post-defult" 
